@@ -2,17 +2,22 @@
 
 <h2>👨‍💻 Introduction:</h2>
 
-I'm a results-driven Data Analystwith over 5 years of experience transforming complex datasets into actionable insights. My work spans across advanced data analysis, comprehensive data visualization and machine learning model development. I specialize in creating dynamic data models, developing interactive dashboards using Power BI, and crafting SQL queries that drive data-driven decision-making.
+I'm a results-driven Data Analyst with over 5 years of experience in transforming complex datasets into actionable insights. My work spans across advanced data analysis, comprehensive data visualization and machine learning model development. I specialize in creating dynamic data models, developing interactive dashboards using Power BI, and crafting SQL queries that drive data-driven decision-making.
 
 From driving data-driven strategies to delivering clear, actionable insights to stakeholders, I approach every challenge with a strong problem-solving mindset and meticulous attention to detail. With a passion for simplifying complex problems and a commitment to robust data quality, I'm dedicated to helping organizations harness the full potential of their data. Let's connect and explore how data can unlock new opportunities! 🚀
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>💡 My projects </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
+
+### 4. 📈 Sales-Performance-Report-PowerBI
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Overview.png" alt="Description" width="400"/> 
+
+Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
+
+**Description:** A comprehensive Power BI dashboard for analyzing and comparing Year-to-Date (YTD) and Prior Year-to-Date (PYTD) sales performance across various dimensions
+**[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
+
 
 <h2> 🤳 Connect with me:</h2>
 
