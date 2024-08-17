@@ -21,15 +21,21 @@ Power BI report can be viewed here [![Power BI Report](https://img.shields.io/ba
 ### 2. 🔍 Credit_Card_Default_Analysis 
 <img src="https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Images/ROC%20curve.jpg" alt="Description" width="370"/> 
 
-**Description:** Credit Card default Prediction and data Analysis.   **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
+**Description:** Credit Card default Prediction and data Analysis. **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
 
-### 2. 🔍 Optimizing_Remote_Work_Productivity
+### 3. 🔍 Optimizing_Remote_Work_Productivity
 Use these link to access with the notebook in Google Colab :
 [Data Cleaning & Merging](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Merging_%26_Data_Cleaning.ipynb)
 , [Feature Importance Analysis](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/RW_Feature_Importance_Analysis.ipynb), [EDA](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Exploratory_Data_Analysis_.ipynb)
 
-**Description:** Insights from Post-Pandemic Workforce Analysis: Identifying key factors affecting productivity  
-**[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
+**Description:** Insights from Post-Pandemic Workforce Analysis: Identifying key factors affecting productivity. **[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
+
+### 1. 📈 U.S-Border-Crossing-Analysis-Power-BI-Dashboard
+<img src="https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard/blob/main/Images/Overview.png" alt="Description" width="400"/> 
+
+Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=60b169e3-363c-475a-9600-6893bfcbd719&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
+
+**Description:** A comprehensive Power BI dashboard for analyzing U.S. border crossings, visualizing traffic trends, port performance, and geographical distribution of crossings. **[View Repository](https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard)**
 
 
 <h2> 🤳 Connect with me:</h2>
