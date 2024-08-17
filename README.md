@@ -18,7 +18,10 @@ Power BI report can be viewed here [![Power BI Report](https://img.shields.io/ba
 **Description:** A comprehensive Power BI dashboard for analyzing and comparing Year-to-Date (YTD) and Prior Year-to-Date (PYTD) sales performance across various dimensions
 **[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
 
-### 2. 🔍 Credit_Card_Default_Analysis 
+### 2. 🔍 Credit_Card_Default_Analysis:
+
+Use these links to access with the notebook in Google Colab : [Model](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb), [EDA](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Data_EDA.ipynb)
+
 <img src="https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Images/ROC%20curve.jpg" alt="Description" width="370"/> 
 
 **Description:** Credit Card default Prediction and data Analysis. **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
