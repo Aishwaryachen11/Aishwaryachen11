@@ -10,13 +10,18 @@ From driving data-driven strategies to delivering clear, actionable insights to 
 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
-### 4. 📈 Sales-Performance-Report-PowerBI
+### 1. 📈 Sales-Performance-Report-PowerBI
 <img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Overview.png" alt="Description" width="400"/> 
 
 Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
 
 **Description:** A comprehensive Power BI dashboard for analyzing and comparing Year-to-Date (YTD) and Prior Year-to-Date (PYTD) sales performance across various dimensions
 **[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
+
+### 2. 🔍 Credit_Card_Default_Analysis 
+<img src="https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Images/ROC%20curve.jpg" alt="Description" width="370"/> 
+**Description:** Credit Card default Prediction and data Analysis.  
+**[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)**
 
 
 <h2> 🤳 Connect with me:</h2>
