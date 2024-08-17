@@ -11,7 +11,7 @@ From driving data-driven strategies to delivering clear, actionable insights to 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
 ### 1. 📈 Sales-Performance-Report-PowerBI
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Overview.png" alt="Description" width="400"/> 
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Overview.png" alt="Description" width="450"/> 
 
 Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
 
@@ -30,18 +30,28 @@ Use these link to access with the notebook in Google Colab :
 
 **Description:** Insights from Post-Pandemic Workforce Analysis: Identifying key factors affecting productivity. **[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
 
-### 1. 📈 U.S-Border-Crossing-Analysis-Power-BI-Dashboard
-<img src="https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard/blob/main/Images/Overview.png" alt="Description" width="400"/> 
+### 4. 📈 U.S-Border-Crossing-Analysis-Power-BI-Dashboard
+<img src="https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard/blob/main/Images/Overview.png" alt="Description" width="450"/> 
 
 Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=60b169e3-363c-475a-9600-6893bfcbd719&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
 
 **Description:** A comprehensive Power BI dashboard for analyzing U.S. border crossings, visualizing traffic trends, port performance, and geographical distribution of crossings. **[View Repository](https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard)**
 
+### 3. 🔍 Medical_Insurance_Cost_Prediction
+Use these link to access with the notebook in Google Colab :
+[EDA](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb), [Model](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb)
+
+**Description:** Predicting the medical insurance costs, Model evaluation and EDA. **[View Repository](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction)**
+
+### 3. 🔍 Medical_Insurance_Cost_Prediction
+Use this link to Google Cloud SQL :
+
+You can view the results of the BigQuery query [here](https://console.cloud.google.com/bigquery?sq=891015959491:6dce298f69b84930b10767858997b1b8).
+
+**Description:** Analysis of COVID-19's global impact, examining infection rates, mortality rates, and vaccination progress across different countries and continents using SQL. **[View Repository](https://github.com/Aishwaryachen11/SQL_Data-Exploraton)**
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
