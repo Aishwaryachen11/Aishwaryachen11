@@ -24,10 +24,13 @@ Power BI report can be viewed here [![Power BI Report](https://img.shields.io/ba
 **Description:** Credit Card default Prediction and data Analysis.   **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
 
 ### 2. 🔍 Optimizing_Remote_Work_Productivity
-Use this link to access with the notebook in Google Colab :
-[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)
-[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/RW_Feature_Importance_Analysis.ipynb)
-[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Exploratory_Data_Analysis_.ipynb)
+Use these link to access with the notebook in Google Colab :
+
+Data Cleaning & Merging:[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Merging_%26_Data_Cleaning.ipynb)
+
+Feature Importance Analysis: [Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/RW_Feature_Importance_Analysis.ipynb)
+
+EDA: [Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Exploratory_Data_Analysis_.ipynb)
 
 **Description:** Insights from Post-Pandemic Workforce Analysis: Identifying key factors affecting productivity  
 **[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
