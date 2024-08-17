@@ -24,7 +24,7 @@ Use these links to access with the notebook in Google Colab : [Model](https://gi
 
 <img src="https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Images/ROC%20curve.jpg" alt="Description" width="370"/> 
 
-**Description:** Credit Card default Prediction and data Analysis. **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
+**Description:** A comprehensive analysis and predictive modeling of credit card default risk. By exploring and visualizing key patterns in the data through EDA, I developed a robust machine learning model to predict the likelihood of default, enhancing decision-making processes in financial risk management. **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
 
 ### 3. 🔍 Optimizing_Remote_Work_Productivity
 Use these link to access with the notebook in Google Colab :
@@ -44,7 +44,7 @@ Power BI report can be viewed here [![Power BI Report](https://img.shields.io/ba
 Use these link to access with the notebook in Google Colab :
 [EDA](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb), [Model](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb)
 
-**Description:** Predicting the medical insurance costs, Model evaluation and EDA. **[View Repository](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction)**
+**Description:** Predicting medical insurance costs based on key factors such as age, BMI, and smoking status. Through in-depth Exploratory Data Analysis (EDA) and robust model evaluation, I developed a predictive model that aids in estimating healthcare expenses, which is crucial for insurance providers and policyholders **[View Repository](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction)**
 
 ### 6. 🔍 SQL_Data-Exploraton of COVID-19 Data
 
