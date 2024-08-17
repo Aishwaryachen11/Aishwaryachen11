@@ -37,13 +37,13 @@ Power BI report can be viewed here [![Power BI Report](https://img.shields.io/ba
 
 **Description:** A comprehensive Power BI dashboard for analyzing U.S. border crossings, visualizing traffic trends, port performance, and geographical distribution of crossings. **[View Repository](https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard)**
 
-### 3. 🔍 Medical_Insurance_Cost_Prediction
+### 5. 🔍 Medical_Insurance_Cost_Prediction
 Use these link to access with the notebook in Google Colab :
 [EDA](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb), [Model](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb)
 
 **Description:** Predicting the medical insurance costs, Model evaluation and EDA. **[View Repository](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction)**
 
-### 3. 🔍 SQL_Data-Exploraton of COVID-19 Data
+### 6. 🔍 SQL_Data-Exploraton of COVID-19 Data
 
 You can view the results of the BigQuery query [here](https://console.cloud.google.com/bigquery?sq=891015959491:6dce298f69b84930b10767858997b1b8).
 
