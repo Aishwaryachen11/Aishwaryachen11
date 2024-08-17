@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
 Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
 
-**Description:** A comprehensive Power BI dashboard for analyzing and comparing Year-to-Date (YTD) and Prior Year-to-Date (PYTD) sales performance across various dimensions
+**Description:** Project features a comprehensive Power BI dashboard designed to analyze and compare Year-to-Date (YTD) and Prior Year-to-Date (PYTD) sales performance across multiple dimensions. The dashboard provides valuable insights into sales trends, allowing businesses to make informed decisions based on real-time data.
 **[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
 
 ### 2. 🔍 Credit_Card_Default_Analysis:
@@ -31,7 +31,7 @@ Use these link to access with the notebook in Google Colab :
 [Data Cleaning & Merging](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Merging_%26_Data_Cleaning.ipynb)
 , [Feature Importance Analysis](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/RW_Feature_Importance_Analysis.ipynb), [EDA](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Exploratory_Data_Analysis_.ipynb)
 
-**Description:** Insights from Post-Pandemic Workforce Analysis: Identifying key factors affecting productivity. **[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
+**Description:** Project delves into the post-pandemic remote workforce to identify key factors influencing productivity. Through rigorous data cleaning, feature importance analysis, and exploratory data analysis, I uncover insights that can help organizations optimize remote work strategies and improve employee performance.. **[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
 
 ### 4. 📈 U.S-Border-Crossing-Analysis-Power-BI-Dashboard
 <img src="https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard/blob/main/Images/Overview.png" alt="Description" width="450"/> 
