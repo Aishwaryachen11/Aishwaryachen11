@@ -43,8 +43,7 @@ Use these link to access with the notebook in Google Colab :
 
 **Description:** Predicting the medical insurance costs, Model evaluation and EDA. **[View Repository](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction)**
 
-### 3. 🔍 Medical_Insurance_Cost_Prediction
-Use this link to Google Cloud SQL :
+### 3. 🔍 SQL_Data-Exploraton of COVID-19 Data
 
 You can view the results of the BigQuery query [here](https://console.cloud.google.com/bigquery?sq=891015959491:6dce298f69b84930b10767858997b1b8).
 
@@ -52,13 +51,13 @@ You can view the results of the BigQuery query [here](https://console.cloud.goog
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Feel free to reach out if you have any questions or would like to collaborate on a project!
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aishwarya Chennabathni | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[linkedin]:https://www.linkedin.com/in/aishwarya-chennabathni/
+[gmail]:mailto:aishwarya.chen11@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
