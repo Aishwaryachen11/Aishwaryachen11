@@ -20,9 +20,17 @@ Power BI report can be viewed here [![Power BI Report](https://img.shields.io/ba
 
 ### 2. 🔍 Credit_Card_Default_Analysis 
 <img src="https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Images/ROC%20curve.jpg" alt="Description" width="370"/> 
-**Description:** Credit Card default Prediction and data Analysis.  
 
-**[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)**
+**Description:** Credit Card default Prediction and data Analysis.   **[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
+
+### 2. 🔍 Optimizing_Remote_Work_Productivity
+Use this link to access with the notebook in Google Colab :
+[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)
+[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/RW_Feature_Importance_Analysis.ipynb)
+[Open Colab Notebook](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Exploratory_Data_Analysis_.ipynb)
+
+**Description:** Insights from Post-Pandemic Workforce Analysis: Identifying key factors affecting productivity  
+**[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
 
 
 <h2> 🤳 Connect with me:</h2>
