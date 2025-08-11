@@ -71,7 +71,7 @@ Text preprocessing (stopword removal, lemmatization) · TF-IDF (unigrams + bigra
 
 [**Open Colab**](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews/blob/main/Sentiment_Analysis_Customer_reviews.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews)
 
-## 💳 Credit Card Default Prediction – American Express Dataset
+### 💳 Credit Card Default Prediction – American Express Dataset
 
 **Description:**  
 Predicted credit card defaults using American Express credit risk data. Built and compared multiple ML models (Logistic Regression, Decision Tree, Random Forest, KNN, XGBoost) to identify high-risk customers, improve portfolio management, and provide actionable financial insights.
@@ -85,7 +85,7 @@ XGBoost & Random Forest achieved highest accuracy and ROC AUC · Key predictors:
 
 [**Open Colab**](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)
 
-## ⚖ Named Entity Recognition (NER) for Legal Documents – ECtHR Cases
+### ⚖ Named Entity Recognition (NER) for Legal Documents – ECtHR Cases
 
 **Description:**  
 Built NER models to extract legal-specific entities (CASE_NUMBER, ARTICLE_REF, PERSON, COUNTRY, ORG, LAW) from European Court of Human Rights case documents. Implemented complete pipeline from text extraction and annotation preparation to model training, evaluation, and error analysis.
