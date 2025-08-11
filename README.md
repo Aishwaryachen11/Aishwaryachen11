@@ -5,19 +5,19 @@
 I’m an accomplished Data Scientist with over 6 years of experience designing, building, and deploying end-to-end AI & ML solutions across healthcare, logistics, insurance, real estate, and public sector domains.
 My work blends technical depth with business impact, from predictive modeling and clustering to large-scale ML pipelines and explainable AI.
 
-💡 What I Do:
+**💡 What I Do:**
 Build and deploy supervised learning models: XGBoost, Gradient Boosting, Random Forests, Logistic Regression, LSTMs, RNNs for classification, forecasting, and behavioral segmentation.
 Design unsupervised systems like K-Means, DBSCAN, and Hierarchical Clustering, validating their real-world utility through stratified supervised models with SHAP-based interpretation.
 Apply statistical modeling: A/B testing, causal inference, uplift modeling, anomaly detection, and interpretability techniques using LIME for model insights.
 
-⚙ Tech Stack:
+**⚙ Tech Stack:**
 Languages: Python, SQL
 ML/DL Libraries: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Hugging Face, Statsmodels
 Data Platforms: Snowflake, Redshift, BigQuery
 MLOps & Cloud: AWS, GCP, MLflow, GitHub Actions, Cloud Run
 Model Monitoring: Drift detection, alert-based retraining, SHAP, LIME, gradient diagnostics
 
-🚀 Highlights:
+**🚀 Highlights:**
 Developed scalable ML pipelines with monitoring & automated retraining for triage simulation and policy planning.
 Applied advanced feature engineering, PCA, L1/L2 regularization, and optimization with Optuna & Bayesian search.
 
