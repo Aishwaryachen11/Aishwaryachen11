@@ -75,50 +75,36 @@ Text preprocessing (stopword removal, lemmatization) · TF-IDF (unigrams + bigra
 **Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews/blob/main/Sentiment_Analysis_Customer_reviews.ipynb)  
 **Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews)
 
+## 💳 Credit Card Default Prediction – American Express Dataset
 
+**Description:**  
+Predicted credit card defaults using American Express credit risk data. Built and compared multiple ML models (Logistic Regression, Decision Tree, Random Forest, KNN, XGBoost) to identify high-risk customers, improve portfolio management, and provide actionable financial insights.
 
-## 📈 Sales-Performance-Report-PowerBI: 
-**[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
+**Models / Tools / Techniques:**  
+Logistic Regression · Decision Tree · Random Forest · KNN · XGBoost · Python · Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib  
+Data preprocessing (missing value handling, feature scaling, stratified sampling) · Class imbalance handling · Feature importance analysis · ROC/AUC evaluation
 
-Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
+**Highlights:**  
+XGBoost & Random Forest achieved highest accuracy and ROC AUC · Key predictors: credit score, credit limit usage, net yearly income · Insights for targeted credit policies and risk-based pricing
 
-**Description:** Project features a comprehensive Power BI dashboard designed to analyze and compare Year-to-Date (YTD) and Prior Year-to-Date (PYTD) sales performance across multiple dimensions. The dashboard provides valuable insights into sales trends, allowing businesses to make informed decisions based on real-time data.
+**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb)  
+**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)
 
-### 2. 🔍 Credit_Card_Default_Analysis:
+## ⚖ Named Entity Recognition (NER) for Legal Documents – ECtHR Cases
 
-Use these links to access with the notebook in Google Colab : [Model](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb), [EDA](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Data_EDA.ipynb)
+**Description:**  
+Built NER models to extract legal-specific entities (CASE_NUMBER, ARTICLE_REF, PERSON, COUNTRY, ORG, LAW) from European Court of Human Rights case documents. Implemented complete pipeline from text extraction and annotation preparation to model training, evaluation, and error analysis.
 
-<img src="https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Images/ROC%20curve.jpg" alt="Description" width="370"/> 
+**Models / Tools / Techniques:**  
+BiLSTM · Legal-BERT (nlpaueb/legal-bert-base-uncased) · Python · HuggingFace Transformers · Pandas · seqeval  
+Data preprocessing · Tokenization & BIO tagging · Doccano/Label Studio integration · Train/dev/test split by document · Model evaluation & confusion analysis
 
-**[View Repository](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)** 
+**Highlights:**  
+Developed domain-specific label schema · Prepared dataset in CoNLL BIO format · Achieved robust entity extraction with Legal-BERT · Added error analysis and simple rule-based explainability
 
-**Description:** A comprehensive analysis and predictive modeling of credit card default risk. By exploring and visualizing key patterns in the data through EDA, I developed a robust machine learning model to predict the likelihood of default, enhancing decision-making processes in financial risk management. 
+**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/ECtHR-Legal-NER/blob/main/NER_Legal_Documents.ipynb)  
+**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/ECtHR-Legal-NER)
 
-### 3. 🔍 Optimizing_Remote_Work_Productivity
-Use these link to access with the notebook in Google Colab :
-[Data Cleaning & Merging](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Merging_%26_Data_Cleaning.ipynb)
-, [Feature Importance Analysis](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/RW_Feature_Importance_Analysis.ipynb), [EDA](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity/blob/main/Exploratory_Data_Analysis_.ipynb)
-
- **[View Repository](https://github.com/Aishwaryachen11/Optimizing_Remote_Work_Productivity)**
-
-**Description:** Project delves into the post-pandemic remote workforce to identify key factors influencing productivity. Through rigorous data cleaning, feature importance analysis, and exploratory data analysis, I uncover insights that can help organizations optimize remote work strategies and improve employee performance.
-
-### 4. 📈 U.S-Border-Crossing-Analysis-Power-BI-Dashboard
-<img src="https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard/blob/main/Images/Overview.png" alt="Description" width="450"/> 
-
-**[View Repository](https://github.com/Aishwaryachen11/U.S-Border-Crossing-Analysis-Power-BI-Dashboard)**
-
-Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=60b169e3-363c-475a-9600-6893bfcbd719&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
-
-**Description:** A comprehensive Power BI dashboard for analyzing U.S. border crossings, visualizing traffic trends, port performance, and geographical distribution of crossings. 
-
-### 5. 🔍 Medical_Insurance_Cost_Prediction
-Use these link to access with the notebook in Google Colab :
-[EDA](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb), [Model](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb)
-
-**[View Repository](https://github.com/Aishwaryachen11/Medical_Insurance_Cost_Prediction)**
-
-**Description:** Predicting medical insurance costs based on key factors such as age, BMI, and smoking status. Through in-depth Exploratory Data Analysis (EDA) and robust model evaluation, I developed a predictive model that aids in estimating healthcare expenses, which is crucial for insurance providers and policyholders 
 
 ### 6. 🔍 SQL_Data-Exploraton of COVID-19 Data
 
