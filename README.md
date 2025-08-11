@@ -25,9 +25,22 @@ Applied advanced feature engineering, PCA, L1/L2 regularization, and optimizatio
 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
-### 1. 📈 Sales-Performance-Report-PowerBI: 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Overview.png" alt="Description" width="450"/> 
+### 🧠 Fashion MNIST Classification using Deep Neural Networks (Keras)
 
+**Description:**  
+Classified fashion items from the Fashion MNIST dataset using a custom feedforward neural network in TensorFlow/Keras. Applied best practices like dropout, early stopping, and optimizer tuning for robust generalization.
+
+**Models / Tools / Techniques:**  
+Feedforward NN · Python · TensorFlow · Keras · NumPy · Matplotlib  
+Hyperparameter tuning · Dropout (30%) · Adam optimizer (lr=0.0005) · Early stopping · Learning curve visualization
+
+**Highlights:**  
+~89.2% test accuracy · Minimal overfitting · Custom 3-layer architecture · Integrated dropout & early stopping
+
+**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)  
+**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
+
+## 📈 Sales-Performance-Report-PowerBI: 
 **[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
 
 Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
