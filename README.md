@@ -36,7 +36,7 @@ Hyperparameter tuning · Dropout (30%) · Adam optimizer (lr=0.0005) · Early st
 **Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)  
 **Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
 
-### Telco Customer Churn Prediction
+### Telco Customer Churn Prediction using Logistic, Random Forest, XGBoost
 
 **Description:** Predicted telecom customer churn using Logistic Regression, Random Forest, and XGBoost, with SHAP-based explainability to identify key churn drivers for targeted retention strategies.
 
@@ -47,6 +47,34 @@ Data cleaning · OneHotEncoding · StandardScaler · Class imbalance handling ·
 
 **Notebook:** [Open Colab](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost/blob/main/Customer_churn_XGBoost%2C_Random_Forest.ipynb)  
 **Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost)
+
+### SARIMA Time Series Forecasting – AirPassengers
+
+**Description:** Forecasted monthly airline passenger counts using a SARIMA model to capture both trend and seasonality. Performed stationarity checks, differencing, parameter tuning, and evaluated model accuracy with RMSE and MAPE.
+
+**Models / Tools / Techniques:** SARIMA · Python · Pandas · Statsmodels · Matplotlib  
+ADF test · First-order & seasonal differencing · Seasonal ARIMA parameter tuning · Time series visualization
+
+**Highlights:** RMSE: 15.56 · MAPE: 4.57% (high accuracy) · Successfully modeled strong yearly seasonality · Produced clear forecast vs actual visualizations
+
+**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting/blob/main/SARIMA_AirPassengers_Project.ipynb)  
+**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting)
+
+### Sentiment Analysis on Amazon Fine Food Reviews
+
+**Description:**  
+Performed sentiment classification (Positive, Negative, Neutral) on the Amazon Fine Food Reviews dataset. Built Logistic Regression and Multinomial Naive Bayes models with TF-IDF features, handled class imbalance, and used SHAP to explain model predictions.
+
+**Models / Tools / Techniques:**  
+Logistic Regression · Multinomial Naive Bayes · Python · Pandas · NumPy · Scikit-learn · NLTK · SHAP · Matplotlib  
+Text preprocessing (stopword removal, lemmatization) · TF-IDF (unigrams + bigrams) · Class imbalance handling · Model explainability
+
+**Highlights:**  
+~85% accuracy · Logistic Regression gave best overall balance between precision/recall · SHAP revealed top impactful words for each sentiment · Live prediction demo with confidence scores
+
+**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews/blob/main/Sentiment_Analysis_Customer_reviews.ipynb)  
+**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews)
+
 
 
 ## 📈 Sales-Performance-Report-PowerBI: 
