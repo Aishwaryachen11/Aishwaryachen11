@@ -25,7 +25,7 @@ Applied advanced feature engineering, PCA, L1/L2 regularization, and optimizatio
 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
-### Fashion MNIST Classification using Deep Neural Networks (Keras)
+### 🧠 Fashion MNIST Classification using Deep Neural Networks (Keras)
 **Description:** Classified fashion items from the Fashion MNIST dataset using a custom feedforward neural network in TensorFlow/Keras. Applied best practices like dropout, early stopping, and optimizer tuning for robust generalization.
 
 **Models / Tools / Techniques:** Feedforward NN · Python · TensorFlow · Keras · NumPy · Matplotlib  
@@ -35,7 +35,7 @@ Hyperparameter tuning · Dropout (30%) · Adam optimizer (lr=0.0005) · Early st
 
  [**Open Colab**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
 
-### Telco Customer Churn Prediction using Logistic, Random Forest, XGBoost
+### 📞Telco Customer Churn Prediction using Logistic, Random Forest, XGBoost
 
 **Description:** Predicted telecom customer churn using Logistic Regression, Random Forest, and XGBoost, with SHAP-based explainability to identify key churn drivers for targeted retention strategies.
 
@@ -46,7 +46,7 @@ Data cleaning · OneHotEncoding · StandardScaler · Class imbalance handling ·
 
 [**Open Colab**](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost/blob/main/Customer_churn_XGBoost%2C_Random_Forest.ipynb)  [**GitHub Repo**](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost)
 
-### SARIMA Time Series Forecasting – AirPassengers
+### 📈 SARIMA Time Series Forecasting – AirPassengers
 
 **Description:** Forecasted monthly airline passenger counts using a SARIMA model to capture both trend and seasonality. Performed stationarity checks, differencing, parameter tuning, and evaluated model accuracy with RMSE and MAPE.
 
@@ -57,7 +57,7 @@ ADF test · First-order & seasonal differencing · Seasonal ARIMA parameter tuni
 
 [**Open Colab**](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting/blob/main/SARIMA_AirPassengers_Project.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting)
 
-### Sentiment Analysis on Amazon Fine Food Reviews
+### 💬 Sentiment Analysis on Amazon Fine Food Reviews
 
 **Description:**  
 Performed sentiment classification (Positive, Negative, Neutral) on the Amazon Fine Food Reviews dataset. Built Logistic Regression and Multinomial Naive Bayes models with TF-IDF features, handled class imbalance, and used SHAP to explain model predictions.
