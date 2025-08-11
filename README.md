@@ -33,8 +33,7 @@ Hyperparameter tuning · Dropout (30%) · Adam optimizer (lr=0.0005) · Early st
 
 **Highlights:**  ~89.2% test accuracy · Minimal overfitting · Custom 3-layer architecture · Integrated dropout & early stopping
 
-**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)  
-**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
+ [**Open Colab**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)  [**GitHub Repo**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
 
 ### Telco Customer Churn Prediction using Logistic, Random Forest, XGBoost
 
