@@ -96,7 +96,7 @@ XGBoost & Random Forest achieved highest accuracy and ROC AUC · Key predictors:
 Built NER models to extract legal-specific entities (CASE_NUMBER, ARTICLE_REF, PERSON, COUNTRY, ORG, LAW) from European Court of Human Rights case documents. Implemented complete pipeline from text extraction and annotation preparation to model training, evaluation, and error analysis.
 
 **Models / Tools / Techniques:**  
-BiLSTM · Legal-BERT (nlpaueb/legal-bert-base-uncased) · Python · HuggingFace Transformers · Pandas · seqeval  
+BiLSTM · Legal-BERT · HuggingFace Transformers · Pandas · seqeval  
 Data preprocessing · Tokenization & BIO tagging · Doccano/Label Studio integration · Train/dev/test split by document · Model evaluation & confusion analysis
 
 **Highlights:**  
@@ -108,11 +108,11 @@ Developed domain-specific label schema · Prepared dataset in CoNLL BIO format �
 
 ### 6. 🔍 SQL_Data-Exploraton of COVID-19 Data
 
+**Description:** Analysis of COVID-19's global impact, examining infection rates, mortality rates, and vaccination progress across different countries and continents using SQL.
+
 You can view the results of the BigQuery query [here](https://console.cloud.google.com/bigquery?sq=891015959491:6dce298f69b84930b10767858997b1b8).
 
-**[View Repository](https://github.com/Aishwaryachen11/SQL_Data-Exploraton)**
-
-**Description:** Analysis of COVID-19's global impact, examining infection rates, mortality rates, and vaccination progress across different countries and continents using SQL. 
+**[View Repository](https://github.com/Aishwaryachen11/SQL_Data-Exploraton)** 
 
 <h2> 🤳 Connect with me:</h2>
 
