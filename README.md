@@ -33,7 +33,7 @@ Hyperparameter tuning · Dropout (30%) · Adam optimizer (lr=0.0005) · Early st
 
 **Highlights:**  ~89.2% test accuracy · Minimal overfitting · Custom 3-layer architecture · Integrated dropout & early stopping
 
- [**Open Colab**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)  [**GitHub Repo**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
+ [**Open Colab**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
 
 ### Telco Customer Churn Prediction using Logistic, Random Forest, XGBoost
 
@@ -44,8 +44,7 @@ Data cleaning · OneHotEncoding · StandardScaler · Class imbalance handling ·
 
 **Highlights:** Highest recall (0.791) using regularized XGBoost with minimal overfitting · SHAP insights identified top churn drivers (contract type, tenure, monthly charges, service add-ons)
 
-**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost/blob/main/Customer_churn_XGBoost%2C_Random_Forest.ipynb)  
-**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost)
+[**Open Colab**](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost/blob/main/Customer_churn_XGBoost%2C_Random_Forest.ipynb)  [**GitHub Repo**](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost)
 
 ### SARIMA Time Series Forecasting – AirPassengers
 
@@ -56,8 +55,7 @@ ADF test · First-order & seasonal differencing · Seasonal ARIMA parameter tuni
 
 **Highlights:** RMSE: 15.56 · MAPE: 4.57% (high accuracy) · Successfully modeled strong yearly seasonality · Produced clear forecast vs actual visualizations
 
-**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting/blob/main/SARIMA_AirPassengers_Project.ipynb)  
-**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting)
+[**Open Colab**](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting/blob/main/SARIMA_AirPassengers_Project.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/SARIMA-TimeSeries-AirPassengers-Forecasting)
 
 ### Sentiment Analysis on Amazon Fine Food Reviews
 
@@ -71,8 +69,7 @@ Text preprocessing (stopword removal, lemmatization) · TF-IDF (unigrams + bigra
 **Highlights:**  
 ~85% accuracy · Logistic Regression gave best overall balance between precision/recall · SHAP revealed top impactful words for each sentiment · Live prediction demo with confidence scores
 
-**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews/blob/main/Sentiment_Analysis_Customer_reviews.ipynb)  
-**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews)
+[**Open Colab**](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews/blob/main/Sentiment_Analysis_Customer_reviews.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Sentiment-Analysis---Amazon-Customer-reviews)
 
 ## 💳 Credit Card Default Prediction – American Express Dataset
 
@@ -86,8 +83,7 @@ Data preprocessing (missing value handling, feature scaling, stratified sampling
 **Highlights:**  
 XGBoost & Random Forest achieved highest accuracy and ROC AUC · Key predictors: credit score, credit limit usage, net yearly income · Insights for targeted credit policies and risk-based pricing
 
-**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb)  
-**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)
+[**Open Colab**](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)
 
 ## ⚖ Named Entity Recognition (NER) for Legal Documents – ECtHR Cases
 
@@ -101,8 +97,7 @@ Data preprocessing · Tokenization & BIO tagging · Doccano/Label Studio integra
 **Highlights:**  
 Developed domain-specific label schema · Prepared dataset in CoNLL BIO format · Achieved robust entity extraction with Legal-BERT · Added error analysis and simple rule-based explainability
 
-**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/ECtHR-Legal-NER/blob/main/NER_Legal_Documents.ipynb)  
-**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/ECtHR-Legal-NER)
+[**Open Colab**](https://github.com/Aishwaryachen11/ECtHR-Legal-NER/blob/main/NER_Legal_Documents.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/ECtHR-Legal-NER)
 
 
 ### 6. 🔍 SQL_Data-Exploraton of COVID-19 Data
