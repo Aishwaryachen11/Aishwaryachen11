@@ -25,13 +25,29 @@ Applied advanced feature engineering, PCA, L1/L2 regularization, and optimizatio
 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
-### 🧠 Fashion MNIST Classification using Deep Neural Networks (Keras)
+### Fashion MNIST Classification using Deep Neural Networks (Keras)
 **Description:** Classified fashion items from the Fashion MNIST dataset using a custom feedforward neural network in TensorFlow/Keras. Applied best practices like dropout, early stopping, and optimizer tuning for robust generalization.
+
 **Models / Tools / Techniques:** Feedforward NN · Python · TensorFlow · Keras · NumPy · Matplotlib  
 Hyperparameter tuning · Dropout (30%) · Adam optimizer (lr=0.0005) · Early stopping · Learning curve visualization
+
 **Highlights:**  ~89.2% test accuracy · Minimal overfitting · Custom 3-layer architecture · Integrated dropout & early stopping
+
 **Notebook:** [Open Colab](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)  
 **Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras)
+
+### Telco Customer Churn Prediction
+
+**Description:** Predicted telecom customer churn using Logistic Regression, Random Forest, and XGBoost, with SHAP-based explainability to identify key churn drivers for targeted retention strategies.
+
+**Models / Tools / Techniques:**  Logistic Regression · Random Forest · XGBoost (tuned & regularized) · Python · Pandas · NumPy · Scikit-learn · SHAP · Matplotlib  
+Data cleaning · OneHotEncoding · StandardScaler · Class imbalance handling · Hyperparameter tuning · Regularization · Early stopping
+
+**Highlights:** Highest recall (0.791) using regularized XGBoost with minimal overfitting · SHAP insights identified top churn drivers (contract type, tenure, monthly charges, service add-ons)
+
+**Notebook:** [Open Colab](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost/blob/main/Customer_churn_XGBoost%2C_Random_Forest.ipynb)  
+**Repository:** [GitHub Repo](https://github.com/Aishwaryachen11/telco-customer-churn-prediction_XGBoost)
+
 
 ## 📈 Sales-Performance-Report-PowerBI: 
 **[View Repository](https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI)**
