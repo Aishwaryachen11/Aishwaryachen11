@@ -104,9 +104,7 @@ Developed domain-specific label schema · Prepared dataset in CoNLL BIO format �
 
 **Description:** Analysis of COVID-19's global impact, examining infection rates, mortality rates, and vaccination progress across different countries and continents using SQL.
 
-You can view the results of the BigQuery query [here](https://console.cloud.google.com/bigquery?sq=891015959491:6dce298f69b84930b10767858997b1b8).
-
-**[View Repository](https://github.com/Aishwaryachen11/SQL_Data-Exploraton)** 
+You can view the results of the BigQuery query [here](https://console.cloud.google.com/bigquery?sq=891015959491:6dce298f69b84930b10767858997b1b8).  **[View Repository](https://github.com/Aishwaryachen11/SQL_Data-Exploraton)** 
 
 <h2> 🤳 Connect with me:</h2>
 
