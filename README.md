@@ -30,7 +30,7 @@ Model Monitoring: Drift detection, alert-based retraining, SHAP, LIME, gradient 
 - 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **September 2013–July 2017**
 - VNR Vignana Jyothi Institute of Engineering and Technology
 
-<h2>💡 My projects </h2>
+<h2>💡 My Protfolio Projects </h2>
 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
