@@ -23,12 +23,12 @@ Model Monitoring: Drift detection, alert-based retraining, SHAP, LIME, gradient 
 - 🏢 **Optum Global Solutions, United Health Group** · 📅 **July 2017– August 2020**
 
 ## 🎓 Education
-- 🎓 **Master of Business Administration in STEM - Data Science, AI/ML and Analytics** · 📅 **May 2020– May 2022**
-- Indian Institute of Management Tiruchirappalli
-- Focused on applied machine learning, statistics, and business analytics
+- 🎓 **Master of Business Administration in STEM - Data Science, AI/ML and Analytics** · 📅 **May 2020– May 2022**             
+Indian Institute of Management Tiruchirappalli              
+Focused on applied machine learning, statistics, and business analytics      
 
-- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **September 2013–July 2017**
-- VNR Vignana Jyothi Institute of Engineering and Technology
+- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **September 2013–July 2017**          
+VNR Vignana Jyothi Institute of Engineering and Technology
 
 <h2>💡 My Protfolio Projects </h2>
 
