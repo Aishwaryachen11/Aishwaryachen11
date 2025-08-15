@@ -18,7 +18,7 @@ MLOps & Cloud: AWS (S3/Glue/Athena, SageMaker Training/Pipelines/Endpoints), GCP
 Model Monitoring: Drift detection, alert-based retraining, SHAP, LIME, gradient diagnostics
 
 ## 💼 Work Experience
-- 🏢 **Ministry of Health Ontario, Ministry of Long-Term Care** · 📍 **Toronto, ON** · 📅 **September 2024 – Present**
+- 🏢 **Ministry of Health Ontario, Ministry of Long-Term Care** · 📍 **Toronto, ON** · 📅 **Sept 2024 – Present**
 - 🏢 **Tiger Analytics** · 📅 **May 2022– June 2024**
 - 🏢 **Optum Global Solutions, United Health Group** · 📅 **July 2017– August 2020**
 
@@ -27,7 +27,7 @@ Model Monitoring: Drift detection, alert-based retraining, SHAP, LIME, gradient 
 Indian Institute of Management Tiruchirappalli              
 Focused on applied machine learning, statistics, and business analytics      
 
-- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **September 2013–July 2017**          
+- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **Sept 2013–July 2017**          
 VNR Vignana Jyothi Institute of Engineering and Technology
 
 <h2>💡 My Protfolio Projects </h2>
