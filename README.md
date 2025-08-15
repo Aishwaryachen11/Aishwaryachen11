@@ -3,7 +3,7 @@
 <h2>👨‍💻 Introduction:</h2>
 
 I’m an accomplished Data Scientist with over 6 years of experience designing, building, and deploying end-to-end AI & ML solutions across healthcare, logistics, insurance, real estate, and public sector domains.
-My work blends technical depth with business impact, from predictive modeling and clustering to large-scale ML pipelines and explainable AI.
+My work blends technical depth with business impact, from predictive modeling and clustering to large-scale ML pipelines and explainable AI. Production experience spans GCP Vertex AI and AWS SageMaker with MLflow, CI/CD, and monitored deployments
 
 **💡 What I Do:**
 Build and deploy supervised learning models: XGBoost, Gradient Boosting, Random Forests, Logistic Regression, LSTMs, RNNs for classification, forecasting, and behavioral segmentation.
@@ -12,14 +12,23 @@ Apply statistical modeling: A/B testing, causal inference, uplift modeling, anom
 
 **⚙ Tech Stack:**
 Languages: Python, SQL
-ML/DL Libraries: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Hugging Face, Statsmodels
-Data Platforms: Snowflake, Redshift, BigQuery
-MLOps & Cloud: AWS, GCP, MLflow, GitHub Actions, Cloud Run
+ML/DL Libraries: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Hugging Face, Statsmodels, XGBoost, LightGBM
+Data Platforms: Snowflake, Redshift, BigQuery, Databricks/Spark (PySpark), Kafka or Pub/Sub, dbt, Airflow
+MLOps & Cloud: AWS (S3/Glue/Athena, SageMaker Training/Pipelines/Endpoints), GCP (BigQuery, Vertex AI Training/Pipelines/Endpoints, Cloud Run), MLflow Model Registry, GitHub Actions CI/CD, Cloud Build + Artifact Registry.
 Model Monitoring: Drift detection, alert-based retraining, SHAP, LIME, gradient diagnostics
 
-**🚀 Highlights:**
-Developed scalable ML pipelines with monitoring & automated retraining for triage simulation and policy planning.
-Applied advanced feature engineering, PCA, L1/L2 regularization, and optimization with Optuna & Bayesian search.
+## 💼 Work Experience
+- 🏢 **Ministry of Health Ontario, Ministry of Long-Term Care** · 📍 **Toronto, ON** · 📅 **September 2024 – Present**
+- 🏢 **Tiger Analytics** · 📅 **May 2022– June 2024**
+- 🏢 **Optum Global Solutions, United Health Group** · 📅 **July 2017– August 2020**
+
+## 🎓 Education
+- 🎓 **Master of Business Administration in STEM - Data Science, AI/ML and Analytics** · 📅 **May 2020– May 2022**
+  Indian Institute of Management Tiruchirappalli
+  Focused on applied machine learning, statistics, and business analytics
+
+- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **September 2013–July 2017**
+  VNR Vignana Jyothi Institute of Engineering and Technology
 
 <h2>💡 My projects </h2>
 
