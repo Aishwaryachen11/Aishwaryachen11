@@ -106,7 +106,7 @@ Data preprocessing · Tokenization & BIO tagging · Doccano/Label Studio integra
 **Highlights:**  
 Developed domain-specific label schema · Prepared dataset in CoNLL BIO format · Achieved robust entity extraction with Legal-BERT · Added error analysis and simple rule-based explainability
 
-[**Open Colab**](https://github.com/Aishwaryachen11/NER_Legal_Documents_ECtHR_Case/blob/main/NER_Legal_Documents_ECtHR_Cases%20(1).ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/NER_Legal_Documents_ECtHR_Case)
+[**Open Colab**](https://github.com/Aishwaryachen11/NER_Legal_Documents_ECtHR_Case/blob/main/NER%20using%20Bi-LSTM%20on%20CoNLL%20Dataset.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/NER_Legal_Documents_ECtHR_Case)
 
 
 ### 6. 🔍 SQL_Data-Exploraton of COVID-19 Data
