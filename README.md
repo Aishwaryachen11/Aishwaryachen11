@@ -94,6 +94,20 @@ XGBoost & Random Forest achieved highest accuracy and ROC AUC · Key predictors:
 
 [**Open Colab**](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis/blob/main/Credit_Card_Default_Prediction.ipynb)   [**GitHub Repo**](https://github.com/Aishwaryachen11/Credit_Card_Default_Analysis)
 
+### 🛒 Bayesian Marketing Mix Modelling – Canadian Tire Retail Analytics
+
+**Description:**
+Built a Bayesian Poisson regression model to estimate the causal impact of marketing channels on Canadian Tire store foot traffic. Incorporated **Digital Ads**, **TV Ads**, and controlled for **Seasonality** and **Promotions** to avoid biased attribution. Used Bayesian inference to generate posterior distributions, credible intervals, and counterfactual simulations for **marketing budget optimization**.
+
+**Models / Tools / Techniques:**
+Bayesian Poisson Regression · PyMC · ArviZ · NumPy · Pandas · Matplotlib
+Causal inference with DAGs · Priors and posterior estimation · Credible intervals (95% HDI) · Posterior predictive checks · Counterfactual scenario simulations
+
+**Highlights:**
+Bayesian MMM quantified **incremental lift** from Digital (+6%) and TV (+8%) ad spend with full uncertainty bounds · Posterior predictive checks confirmed robust model fit · Counterfactual scenario showed reallocating +20% to Digital and –50% to TV could maintain visits while lowering costs · Demonstrated actionable framework for **budget reallocation under uncertainty** in a real retail context
+
+[**Open Notebook**](https://github.com/Aishwaryachen11/Bayesian-Marketing-Mix-Modelling-for-Retail-Analytics/blob/main/Bayesian%20Marketing%20Mix%20Modelling.ipynb) · [**GitHub Repo**](https://github.com/Aishwaryachen11/Bayesian-Marketing-Mix-Modelling-for-Retail-Analytics)
+
 ### ⚖ Named Entity Recognition (NER) for Legal Documents – ECtHR Cases
 
 **Description:**  
